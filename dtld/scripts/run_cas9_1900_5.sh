@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python ../src/commands/train.py cas9_1900_5

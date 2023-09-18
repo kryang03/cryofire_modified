@@ -1,0 +1,1 @@
+python ../src/commands/train.py cas9
